@@ -4,7 +4,7 @@
 
 
 
-his project aims to provide a comprehensive dashboard for predicting crime rates in Mdantsane, South Africa, based on various factors. The dashboard also includes sentiment analysis from Twitter to gauge public opinion on crime in the area.
+This project aims to provide a comprehensive dashboard for predicting crime rates in Mdantsane, South Africa, based on various factors. The dashboard also includes sentiment analysis from Twitter to gauge public opinion on crime in the area.
 
 
 ![Dashboard Screenshot 1](./img/Dashboard%20Page%201.png)
